@@ -1,6 +1,9 @@
 # Virtual environment folder
 /env
 
+# Excel temporary workbook
+~$analysis.xlsx
+
 # Byte-compiled / optimized / DLL files
 __pycache__/
 *.py[codz]
