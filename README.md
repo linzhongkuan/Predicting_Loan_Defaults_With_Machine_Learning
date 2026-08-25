@@ -1,3 +1,5 @@
+### :money_with_wings: Loan Default Prediction Project
+
 ## Objective
 To train a model to recognize defaults in a artificially generated dataset, and determine how it can be used to maximize profit.
 
@@ -5,13 +7,13 @@ To train a model to recognize defaults in a artificially generated dataset, and 
 * Language: Python
 * Libraries: scikit-learn, pandas
 
-## Method
+## Steps & Workflow
 1. Artificially generate simplified loan datset with Python: [generate_data.ipynb](https://github.com/linzhongkuan/Predicting_Loan_Defaults_With_Machine_Learning/blob/feature/data_synthetic/generate_data.ipynb)
 2. Train the model with Logistic Regression: [model_training.ipynb](https://github.com/linzhongkuan/Predicting_Loan_Defaults_With_Machine_Learning/blob/feature/model_training.ipynb)
-3. Visualize the Results: [See Chart](#result--recommendation)
+3. Visualization and analysis: [See Chart](#result--recommendation)
     - [Excel Download] (https://github.com/linzhongkuan/Predicting_Loan_Defaults_With_Machine_Learning/blob/feature/result_analysis.xlsx)
 
-## Result & Recommendation
+## Insights
 * __Result__:
     - Trained model has prediction accuracy of 77.25%, with high sensitivity; Strong ability in identifying true positive cases of default.
 * __Recommendation__:
@@ -19,7 +21,7 @@ To train a model to recognize defaults in a artificially generated dataset, and 
 
 ![Profit peaks at 35.88% predicted probability in this line chart.](results.png)
 
-# Limitations
+## Limitations
 * __Artificially generated dataset__:
     1. Does not reflect real-world patterns in loan applicants who do and and don't default.
     2. Is heavily simplified. Real-world loan datasets involve many more variables than the few used in generating the data.
