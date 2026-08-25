@@ -2,7 +2,7 @@
 /env
 
 # Excel temporary workbook
-~$analysis.xlsx
+~$result_analysis.xlsx
 
 .DS_Store
 
