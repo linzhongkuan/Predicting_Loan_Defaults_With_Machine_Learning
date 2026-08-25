@@ -4,7 +4,11 @@
 # Excel temporary workbook
 ~$result_analysis.xlsx
 
+# Operating system generated files
 .DS_Store
+
+# Others
+results.png
 
 # Byte-compiled / optimized / DLL files
 __pycache__/
