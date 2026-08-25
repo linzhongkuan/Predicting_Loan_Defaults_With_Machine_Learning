@@ -1,4 +1,4 @@
-### :money_with_wings: Loan Default Prediction Project
+# :money_with_wings: Loan Default Prediction Project
 
 ## Objective
 To train a model to recognize defaults in a artificially generated dataset, and determine how it can be used to maximize profit.
@@ -10,8 +10,8 @@ To train a model to recognize defaults in a artificially generated dataset, and 
 ## Steps & Workflow
 1. Artificially generate simplified loan datset with Python: [generate_data.ipynb](https://github.com/linzhongkuan/Predicting_Loan_Defaults_With_Machine_Learning/blob/feature/data_synthetic/generate_data.ipynb)
 2. Train the model with Logistic Regression: [model_training.ipynb](https://github.com/linzhongkuan/Predicting_Loan_Defaults_With_Machine_Learning/blob/feature/model_training.ipynb)
-3. Visualization and analysis: [See Chart](#result--recommendation)
-    - [Excel Download] (https://github.com/linzhongkuan/Predicting_Loan_Defaults_With_Machine_Learning/blob/feature/result_analysis.xlsx)
+3. Visualization and analysis: [See Chart](#insights)
+    - [Excel Download](https://github.com/linzhongkuan/Predicting_Loan_Defaults_With_Machine_Learning/blob/feature/result_analysis.xlsx)
 
 ## Insights
 * __Result__:
