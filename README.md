@@ -8,8 +8,8 @@ To train a model to recognize defaults in a artificially generated dataset, and 
 * Libraries: scikit-learn, pandas
 
 ## Steps & Workflow
-1. [generate_data.ipynb](https://github.com/linzhongkuan/Predicting_Loan_Defaults_With_Machine_Learning/blob/feature/data_synthetic/generate_data.ipynb) generates an artificial, simplified loan dataset.
-2. [model_training.ipynb](https://github.com/linzhongkuan/Predicting_Loan_Defaults_With_Machine_Learning/blob/feature/model_training.ipynb) uses Logistic Regression to train a model on the generated data.
+1. The script [generate_data.ipynb](https://github.com/linzhongkuan/Predicting_Loan_Defaults_With_Machine_Learning/blob/feature/data_synthetic/generate_data.ipynb) generates an artificial, simplified loan dataset.
+2. The code in [model_training.ipynb](https://github.com/linzhongkuan/Predicting_Loan_Defaults_With_Machine_Learning/blob/feature/model_training.ipynb) uses Logistic Regression to train a model on the generated data.
 3. The resulting predictions are analyzed and visualized in Excel. [See Chart](#insights)
     - [Excel Download](https://github.com/linzhongkuan/Predicting_Loan_Defaults_With_Machine_Learning/blob/feature/result_analysis.xlsx)
 
